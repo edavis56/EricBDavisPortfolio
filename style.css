@@ -1,0 +1,124 @@
+.sub-container{
+    margin-top: 10%;
+}
+
+.navbar-custom {
+    background-color: rgb(128, 240, 16);
+}
+
+#contact{
+    margin-top: 0%;
+  
+    background: RGB(193,225,193) ;
+    color: white;
+    width: 100%;
+    scroll-snap-align: center;
+    text-align: center;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-family: 'Bangers', cursive;
+font-family: 'Playfair Display', serif;
+
+}
+
+
+.navbar {
+    background: RGB(193,225,193);
+}
+
+.navbar-custom {
+    background-color: rgb(128, 240, 16);
+}
+
+#contact{
+    background: RGB(193,225,193);
+    text-align: center;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-family: 'Bangers', cursive;
+font-family: 'Playfair Display', serif;
+}
+
+.navbar-custom {
+    background-color: rgb(128, 240, 16);
+}
+
+#contact{
+    margin-top: 0%;
+   
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-family: 'Bangers', cursive;
+font-family: 'Playfair Display', serif;
+}
+
+.bi {
+    fill: white;
+    margin-left: 3.5%;
+    margin-right: 3.5%;
+    
+}
+
+.navbar-custom {
+    background-color: rgb(128, 240, 16);
+}
+
+#contact{
+    background: RGB(193,225,193);
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-family: 'Bangers', cursive;
+font-family: 'Playfair Display', serif;
+}
+
+#aboutme, #work, h5 {
+    font-size: xxx-large;
+    font-family: 'Playfair Display', serif;
+}
+
+img {
+    height: 400px;
+}
+
+.fixed-bottom {
+
+margin: 0%;
+
+}
+
+.col-sm{
+    margin: 20px;
+    
+}
+
+#contact{
+    height: 110px;
+
+}
+
+.img-thumbnail {
+    padding: 0.25rem;
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: 0.25rem;
+    max-width: 100%;
+    height: auto;
+    
+}
+
+.navbar-brand, .nav-link {
+    color: white;
+}
+
